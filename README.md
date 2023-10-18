@@ -14,13 +14,13 @@ Welcome to my CODSOFT Data Science Internship repository. This repository contai
 9. [License](#license)
 
 ## Dataset
-I used the Iris dataset, which contains information about iris flowers, including features like sepal length, sepal width, petal length, and petal width. The dataset is available in the 'Datasets' folder.
+I used the Iris dataset, which contains information about iris flowers, including features like sepal length, sepal width, petal length, and petal width. The dataset is available in the `Dataset` folder.
 
 ## Data Preprocessing
 I performed various data preprocessing tasks, including handling duplicate records, encoding the target variable, and feature scaling.
 
 ## Machine Learning Models
-I implemented and trained several machine learning models, including Support Vector Classification (SVC), Logistic Regression, K-Nearest Neighbors (KNN), Decision Tree, Random Forest, and Gradient Boosting. The 'CodSoft_Task02_Iris_Classification.ipynb' file contains the code for each model.
+I implemented and trained several machine learning models, including `Support Vector Classification (SVC)`, `Logistic Regression`, `K-Nearest Neighbors (KNN)`, `Decision Tree`, `Random Forest`, and `Gradient Boosting`. The 'CodSoft_Task02_Iris_Classification.ipynb' file contains the code for each model.
 
 ## Results
 The models were evaluated, and their performance was assessed. The accuracy results are summarized in the 'Results' folder.
@@ -29,15 +29,15 @@ The models were evaluated, and their performance was assessed. The accuracy resu
 I successfully built and evaluated multiple machine learning models for the Iris dataset. Since the Iris dataset is well-balanced and does not contain noise, it provides a solid foundation for model training and evaluation. As a result, the performance of almost all models was consistently strong. This is due to the dataset's even distribution of classes and the absence of outliers or irregularities, allowing machine learning models to make accurate and reliable predictions.
 
 ## Repository Structure
-- Datasets: Contains the Iris dataset.
+- Dataset: Contains the Iris dataset.
 - Results: Model accuracy results.
-- Notebooks: Jupyter notebooks include data analysis, visualization, and model code.
+- Notebook: Jupyter notebook `CodSoft_Task02_IRIS_Classification.ipynb.ipynb` include data analysis, visualization, and model code.
 
 #### Usage
 1. Clone this repository to your local machine using Git.
 LiNK
 
-2. Open the Jupyter Notebook 'CodSoft_Task02_Iris_Classification.ipynb' to view the code and analysis for the task.
+2. Open the Jupyter Notebook `CodSoft_Task02_IRIS_Classification.ipynb.ipynb` to view the code and analysis for the task.
 
 3. Explore the analysis and the model selection process to understand how different machine learning algorithms were used for Iris classification.
 
