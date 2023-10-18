@@ -34,9 +34,9 @@ I successfully built and evaluated multiple machine learning models for the Iris
 - Notebook: Jupyter notebook `CodSoft_Task02_IRIS_Classification.ipynb.ipynb` include data analysis, visualization, and model code.
 
 #### Usage
-1. Clone this repository to your local machine using Git. https://github.com/DS-Ali-Arshad/CodSoft-Data-Science-Intern-Task-02.git
+1. Clone this repository to your local machine using Git. [https://github.com/DS-Ali-Arshad/CodSoft-Data-Science-Intern-Task-02.git](https://github.com/DS-Ali-Arshad/CodSoft-Data-Science-Intern-Task-02.git)
 
-2. Open the Jupyter Notebook `CodSoft_Task02_IRIS_Classification.ipynb.ipynb` to view the code and analysis for the task.
+2. Open the Jupyter Notebook `CodSoft_Task02_IRIS_Classification.ipynb` to view the code and analysis for the task.
 
 3. Explore the analysis and the model selection process to understand how different machine learning algorithms were used for Iris classification.
 
